@@ -12,6 +12,16 @@ pip install -r requirements.txt # alternatively try pip3
 
 Remember, it is recommended to use [virtualenv/venv](https://devman.org/encyclopedia/pip/pip_virtualenv/) for better isolation.
 
+# Quickstart
+
+```bash
+$ python vk_friends_online.py
+Enter your login: <your login>
+Enter your password: <your password>
+John Doe
+Jane Doe
+```
+
 # Project Goals
 
 The code is written for educational purposes. Training course for web-developers - [DEVMAN.org](https://devman.org)
