@@ -1,6 +1,6 @@
 # Watcher of Friends Online
 
-[TODO. There will be project description]
+Program lists friends of an VK user which are currently online
 
 # How to Install
 
